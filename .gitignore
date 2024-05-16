@@ -1,0 +1,3 @@
+# Ignore compiled bytecode files
+*.class
+
